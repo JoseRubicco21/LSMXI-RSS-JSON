@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My RSS JSON feed",
+    "home_page_url": "https://joserubicco21.github.io/LSMXI-RSS-JSON/",
+    "feed_url": "https://joserubicco21.github.io/LSMXI-RSS-JSON/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is a second item.",
+    "url": "https://example.org/second-item"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, world!</p>",
+    "url": "https://example.org/initial-post"
+    }
+    ]
+   }
+   
