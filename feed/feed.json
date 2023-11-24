@@ -6,13 +6,13 @@
     "items": [
     {
     "id": "2",
-    "content_text": "This is a second item.",
-    "url": "https://example.org/second-item"
+    "content_text": "Python",
+    "url": "https://joserubicco21.github.io/LSMXI-RSS-JSON/python.html"
     },
     {
     "id": "1",
     "content_html": "<p>Hello, world!</p>",
-    "url": "https://example.org/initial-post"
+    "url": "https://joserubicco21.github.io/LSMXI-RSS-JSON/java.html"
     }
     ]
    }
